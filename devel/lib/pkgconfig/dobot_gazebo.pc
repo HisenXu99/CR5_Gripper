@@ -1,0 +1,8 @@
+prefix=/home/hisen/Project/ROS/CR5_Gripper/devel
+
+Name: dobot_gazebo
+Description: Description of dobot_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

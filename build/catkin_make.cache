@@ -1,0 +1,2 @@
+dh_robotics_ag95_description:dobot_description:dobot_gazebo:plugins/roboticsgroup_gazebo_plugins-master
+-DCATKIN_DEVEL_PREFIX=/home/hisen/Project/ROS/CR5_Gripper/devel -DCMAKE_INSTALL_PREFIX=/home/hisen/Project/ROS/CR5_Gripper/install -G Unix Makefiles
